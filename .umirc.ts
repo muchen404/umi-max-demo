@@ -18,8 +18,6 @@ export default defineConfig({
       name: '首页',
       path: '/home',
       component: './Home',
-      headerRender: false,
-      menuRender: false,
     },
     {
       name: '权限演示',
